@@ -28,6 +28,36 @@ input[type=text], select, textarea {
   /* Add a background color and some padding around the form */
   .container {
     border-radius: 5px;
-    background-color: skyblue;
     padding: 20px;
+    
   }
+
+  .navbar {
+    border-bottom: 1px solid steelblue;
+    font-family: 'Alegreya Sans', sans-serif;
+    background: rgba(21, 31, 33, 0.3);
+      
+}
+
+.navbar-brand{
+  height: 50px;
+  width: 140px;
+}
+
+.contact{
+  text-align: center;
+  font-size: 30px;
+}
+
+body{
+  margin-top: 90px;
+  background: #005aa7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #005aa7, #fffde4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #005aa7, #fffde4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.nav-link {
+  color: black;
+  border: 15px   
+}
