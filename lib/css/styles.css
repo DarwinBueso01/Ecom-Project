@@ -3,57 +3,53 @@
     border-bottom: 1px solid steelblue;
     font-family: 'Alegreya Sans', sans-serif;
     background: rgba(21, 31, 33, 0.3);
-    
-    
-}
-
-.product-tittle {
+   
+   
+ }
+  
+ .product-tittle {
     text-align: center;
     margin-top: 300px;
     font-size: 60px;
-}
-
-body{
+ }
+  
+ body{
     color: black;
     font-family: 'Alegreya Sans', sans-serif;
     background: url(../../img/swimming.pool.jpg);
     background-size: cover;
-}
-
-.navbar-brand {
+ }
+  
+ .navbar-brand {
     height: 50px;
     width: 140px;
-}
-
-.nav-link {
+ }
+  
+ .nav-link {
     color: black;
-    border: 15px   
-}
-
-/* Style all font awesome icons */
-.fa {
+    border: 15px  
+ }
+  
+ /* Style all font awesome icons */
+ .fa {
     padding: 20px;
     font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-    
+   
   }
-  
-  /* Add a hover effect if you want */
+   /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.3;
   }
-  
-  /* Set a specific color for each brand */
-  
-  /* Facebook */
+   /* Set a specific color for each brand */
+   /* Facebook */
   .fa-facebook {
     background: #3B5998;
     color: white;
   }
-  
-  /* Twitter */
+   /* Twitter */
   .fa-twitter {
     background: #55ACEE;
     color: white;
@@ -63,37 +59,29 @@ body{
     background: #125688;
     color: white;
   }
-
+  
   .fa-snapchat-ghost {
     background: #fffc00;
     color: white;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
-
+  
   .social{
-      margin-top: 280px;
+      margin-top: 185px;
       margin-left: 10px;
   }
-
+  
   .subtittle{
       text-align: center;
   }
-
+  
   footer{
       margin-left: 25px;
   }
-
-
-
-
   
-
-
-
-
-
-
-
-
-
-
+  .decor{
+      margin-left: 665px;
+      height: 80px;
+      width: 100px;
+  }
+ 
