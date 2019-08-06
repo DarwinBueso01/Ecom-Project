@@ -415,3 +415,8 @@ body {
 
 
  
+img .decor {
+	margin-left: 57rem !important;
+    height: 80px;
+    width: 100px;
+}
